@@ -1,0 +1,45 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+}
+
+body {
+    background-color: rgb(6, 6, 216);
+}
+
+.logo {
+    width: 300px;
+    display: block;
+    margin: 20px auto;
+    border-radius: 23px;
+}
+
+main {
+    width: 375px;
+    background: #ffffff;
+    border-radius: 20px;
+    margin: 0 auto;
+    padding: 40px 25px 23px;
+}
+
+label {
+    color: #777777;
+    font-weight: 400;
+    font-size: 15px;
+}
+
+select {
+    background: #ffffff;
+    border: 1px solid #BBBBBB;
+    border-radius: 4px;
+    height: 48px;
+    width: 100%;
+    margin-bottom: 23px;
+    appearance: none;
+    padding-left: 18px;
+    font-weight: 700;
+    font-size: 16px;
+}
